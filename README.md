@@ -1,6 +1,6 @@
-# Python lesson
+# Python Lessons
 ## Author
-Till
+Till Sauerwein
 ## Date
 2019-09-24
 
